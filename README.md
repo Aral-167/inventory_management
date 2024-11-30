@@ -1,2 +1,3 @@
-# inventory_management
-A project to manage inventory using motoko
+## inventory_management
+A basic project to manage the inventory.
+
